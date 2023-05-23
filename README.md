@@ -1,7 +1,7 @@
 # Ecommerce-Supply
 Note Creator
 Github license
-
+MIT License
 User Info
 Aven Pearson
 
